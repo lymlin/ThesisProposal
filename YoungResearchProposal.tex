@@ -45,7 +45,7 @@
 	
 	\maketitle
 	\begin{sciabstract}
-		This document is meant to serve as a documentation of research completed thus far.
+		This document is meant to serve as documentation of research completed thus far.
 	\end{sciabstract}
 
 \section{Introduction and Significance}
@@ -211,7 +211,12 @@ Where $T$ is the muscle tension, $k_{SE}$ is the serial element stiffness, $k_{P
 			\begin{align*}
 				min\;\sum_{i=1}^{38} F_{i} 
 			\end{align*}
-		The results of this minimization are promising and demonstrate a rudimentary capability of distributing muscle forces to accommodate the torque profile. However, this method results in force profiles with a number of biologically unrealistic results. First, oftentimes muscle becomes saturated at the maximum for for extended periods of time, seeming to "plateau" while moving the joint. Second, complementary muscles tend to switch on and off rapidly, rather than a smooth, gradual hand off of responsibility. Third, not all muscles are represented in the force profile. Although it's to be expected that not every single muscle is activated throughout walking, one would expect that all muscles would contribute \textit{something} to locomotion at some point. 
+		The results of this minimization are promising and demonstrate a rudimentary capability of distributing muscle forces to accommodate the torque profile. However, this method results in force profiles with a number of biologically unrealistic results. First, oftentimes muscle becomes saturated at the maximum for for extended periods of time, seeming to "plateau" while moving the joint. Second, complementary muscles tend to switch on and off rapidly, rather than a smooth, gradual hand off of responsibility. Third, not all muscles are represented in the force profile. Although it's to be expected that not every single muscle is activated throughout walking, one would expect that all muscles would contribute \textit{something} to locomotion at some point.\par
+		Now that a force profile has been developed, the question becomes how to translate that into motorneuron activation signals. In the past, this was done by using the Hill equation to solve for the necessary activation. Once this motorneuron signal is determined, though, it will need to be implemented in Animatlab. As this system has grown from six hindlimb muscles to thirty-eight, the demands of this neural system design increases as well. In order to address the demands of neural design, it became necessary to develop a tool for large-scale synthetic nervous system design.
+	\subsubsection{A Neural Subsystem Design Tool}
+		This work was presented at ShowCASE 2019 in the form of a poster presentation. A Matlab GUI application has been developed for the design of large-scale synthetic nervous systems (SNSs). This work involves a user-interactive front end similar to Animatlab in which users are able to place, drag/drop, and delete neurons in a work environment. They are able to add different synaptic connections between the neurons and input parameter values for each node individually. \par
+		This system simultaneously records the node information (neurons and synapses) during subnetwork creation. Once a subnetwork has been defined, the user is able to export it or generate an Animatlab project file for simulation. This allows users to create networks that are useful for them (a CPG unit, for example) and rapidly deploy them in different SNSs they are working on. \par
+		An additional benefit of this software is the ability to immediately generate functional subunits\cite{szczecinski_functional_2017} by selecting multiple neurons.  
 		
 	\bibliography{ThesisProposalReferences} 
 	\bibliographystyle{ieeetr}

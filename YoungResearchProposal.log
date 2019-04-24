@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.23)  24 APR 2019 11:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.23)  24 APR 2019 12:17
 entering extended mode
 **./YoungResearchProposal.tex
 (YoungResearchProposal.tex
@@ -744,13 +744,13 @@ File: Figures/momarm1.png Graphic file (type png)
 <use Figures/momarm1.png>
 Package pdftex.def Info: Figures/momarm1.png  used on input line 168.
 (pdftex.def)             Requested size: 362.37569pt x 139.30664pt.
- [5 <./Figures/momarm1.png>] (YoungResearchProposal.bbl [6])
+ [5 <./Figures/momarm1.png>] [6] (YoungResearchProposal.bbl)
 [7] (YoungResearchProposal.aux) ) 
 Here is how much of TeX's memory you used:
- 6480 strings out of 492902
- 96046 string characters out of 3122405
- 174648 words of memory out of 3000000
- 10270 multiletter control sequences out of 15000+200000
+ 6481 strings out of 492902
+ 96075 string characters out of 3122405
+ 174652 words of memory out of 3000000
+ 10271 multiletter control sequences out of 15000+200000
  11861 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,26n,38p,941b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -773,7 +773,7 @@ pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/U
 sers/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmti9.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmtt9.pfb>
-Output written on YoungResearchProposal.pdf (7 pages, 400929 bytes).
+Output written on YoungResearchProposal.pdf (7 pages, 402725 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
