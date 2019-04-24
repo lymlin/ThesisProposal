@@ -1,0 +1,78 @@
+\begin{thebibliography}{10}
+
+\bibitem{hunt_development_2017}
+A.~Hunt, N.~Szczecinski, and R.~Quinn, ``Development and {Training} of a
+  {Neural} {Controller} for {Hind} {Leg} {Walking} in a {Dog} {Robot},'' {\em
+  Frontiers in Neurorobotics}, vol.~11, 2017.
+
+\bibitem{hunt_neuromechanical_2014}
+A.~Hunt, M.~Schmidt, M.~Fischer, and R.~D. Quinn, ``Neuromechanical
+  {Simulation} of an {Inter}-leg {Controller} for {Tetrapod} {Coordination},''
+  in {\em Biomimetic and {Biohybrid} {Systems}} (A.~Duff, N.~F. Lepora,
+  A.~Mura, T.~J. Prescott, and P.~F. M.~J. Verschure, eds.), Lecture {Notes} in
+  {Computer} {Science}, pp.~142--153, Springer International Publishing, 2014.
+
+\bibitem{hunt_using_2015}
+A.~J. Hunt, N.~S. Szczecinski, E.~Andrada, M.~Fischer, and R.~D. Quinn, ``Using
+  {Animal} {Data} and {Neural} {Dynamics} to {Reverse} {Engineer} a
+  {Neuromechanical} {Rat} {Model},'' in {\em Biomimetic and {Biohybrid}
+  {Systems}} (S.~P. Wilson, P.~F. Verschure, A.~Mura, and T.~J. Prescott,
+  eds.), Lecture {Notes} in {Computer} {Science}, pp.~211--222, Springer
+  International Publishing, 2015.
+
+\bibitem{johnson_three-dimensional_2008}
+W.~L. Johnson, D.~L. Jindrich, R.~R. Roy, and V.~Reggie~Edgerton, ``A
+  three-dimensional model of the rat hindlimb: {Musculoskeletal} geometry and
+  muscle moment arms,'' {\em Journal of Biomechanics}, vol.~41, pp.~610--619,
+  Jan. 2008.
+
+\bibitem{young_neuromechanical_2018}
+F.~Young, A.~J. Hunt, and R.~D. Quinn, ``A {Neuromechanical} {Rat} {Model} with
+  a {Complete} {Set} of {Hind} {Limb} {Muscles},'' in {\em Biomimetic and
+  {Biohybrid} {Systems}}, (Paris, France), pp.~527--537, Springer, July 2018.
+
+\bibitem{greene_anatomy_1955}
+E.~C. Greene, {\em Anatomy of the rat.}
+\newblock New York: Hafner Publishing Co., 1955.
+
+\bibitem{johnson_application_2011}
+W.~L. Johnson, D.~L. Jindrich, H.~Zhong, R.~R. Roy, and V.~R. Edgerton,
+  ``Application of a {Rat} {Hindlimb} {Model}: {A} {Prediction} of {Force}
+  {Spaces} {Reachable} {Through} {Stimulation} of {Nerve} {Fascicles},'' {\em
+  IEEE Transactions on Biomedical Engineering}, vol.~58, pp.~3328--3338, Dec.
+  2011.
+
+\bibitem{eng_scaling_2008}
+C.~M. Eng, L.~H. Smallwood, M.~P. Rainiero, M.~Lahey, S.~R. Ward, and R.~L.
+  Lieber, ``Scaling of muscle architecture and fiber types in the rat
+  hindlimb,'' {\em Journal of Experimental Biology}, vol.~211, pp.~2336--2345,
+  July 2008.
+
+\bibitem{zajac_muscle_1989}
+F.~E. Zajac, ``Muscle and tendon: properties, models, scaling, and application
+  to biomechanics and motor control.,'' {\em Critical reviews in biomedical
+  engineering}, vol.~17, no.~4, pp.~359--411, 1989.
+
+\bibitem{young_analyzing_2019}
+F.~Young, C.~Rode, A.~Hunt, and R.~Quinn, ``Analyzing {Moment} {Arm} {Profiles}
+  in a {Full}-{Muscle} {Rat} {Hindlimb} {Model},'' {\em Biomimetics}, vol.~4,
+  p.~10, Mar. 2019.
+
+\bibitem{andrada_biomechanics_2013}
+E.~Andrada, J.~Mämpel, A.~Schmidt, M.~Fischer, A.~Karguth, and H.~Witte,
+  ``From biomechanics of rats’ inclined locomotion to a climbing robot,''
+  {\em International Journal of Design \& Nature and Ecodynamics}, vol.~8,
+  pp.~192--212, Sept. 2013.
+
+\bibitem{murray_mathematical_1994}
+R.~M. Murray, Z.~Li, and S.~S. Sastry, {\em A {Mathematical} {Introduction} to
+  {Robotic} {Manipulation}}.
+\newblock CRC Press, 1994.
+
+\bibitem{muir_ground_1999}
+G.~D. Muir and I.~Q. Whishaw, ``Ground reaction forces in locomoting
+  hemi-parkinsonian rats: a definitive test for impairments and
+  compensations,'' {\em Experimental Brain Research}, vol.~126, pp.~307--314,
+  May 1999.
+
+\end{thebibliography}
