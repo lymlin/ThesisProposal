@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.23)  24 APR 2019 12:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.23)  15 AUG 2019 14:33
 entering extended mode
 **./YoungResearchProposal.tex
 (YoungResearchProposal.tex
@@ -693,59 +693,55 @@ LaTeX Font Info:    Try loading font information for U+esvect on input line 46.
 fd"
 File: uesvect.fd 
 )
-<Figures/hill1.png, id=1, 387.3672pt x 171.5208pt>
-File: Figures/hill1.png Graphic file (type png)
-<use Figures/hill1.png>
-Package pdftex.def Info: Figures/hill1.png  used on input line 65.
-(pdftex.def)             Requested size: 362.37569pt x 160.46272pt.
+Underfull \vbox (badness 5504) has occurred while \output is active []
+
  [1
 
 
 {C:/Users/Fletcher/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<Figures/zajac1.PNG, id=15, 499.8675pt x 322.20375pt>
+<Figures/hill1.png, id=10, 387.3672pt x 171.5208pt>
+File: Figures/hill1.png Graphic file (type png)
+<use Figures/hill1.png>
+Package pdftex.def Info: Figures/hill1.png  used on input line 70.
+(pdftex.def)             Requested size: 362.37569pt x 160.46272pt.
+<Figures/zajac1.PNG, id=11, 499.8675pt x 322.20375pt>
 File: Figures/zajac1.PNG Graphic file (type png)
 <use Figures/zajac1.PNG>
-Package pdftex.def Info: Figures/zajac1.PNG  used on input line 77.
+Package pdftex.def Info: Figures/zajac1.PNG  used on input line 82.
 (pdftex.def)             Requested size: 226.48395pt x 145.98837pt.
-<Figures/zajac3.png, id=17, 362.10281pt x 217.5628pt>
+<Figures/zajac3.png, id=13, 362.10281pt x 217.5628pt>
 File: Figures/zajac3.png Graphic file (type png)
 <use Figures/zajac3.png>
-Package pdftex.def Info: Figures/zajac3.png  used on input line 83.
+Package pdftex.def Info: Figures/zajac3.png  used on input line 88.
 (pdftex.def)             Requested size: 226.48395pt x 136.07933pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./Figures/hill1.png> <./Figures/zajac1.PNG> <./Figures/zajac3.png>]
-<Figures/lwidth3.PNG, id=22, 389.20406pt x 240.14719pt>
+ [2 <./Figures/hill1.png>]
+<Figures/lwidth3.PNG, id=24, 389.20406pt x 240.14719pt>
 File: Figures/lwidth3.PNG Graphic file (type png)
 <use Figures/lwidth3.PNG>
-Package pdftex.def Info: Figures/lwidth3.PNG  used on input line 122.
+Package pdftex.def Info: Figures/lwidth3.PNG  used on input line 127.
 (pdftex.def)             Requested size: 168.04996pt x 103.69365pt.
-<Figures/lwidth7.png, id=23, 489.32813pt x 235.63031pt>
+<Figures/lwidth7.png, id=25, 489.32813pt x 235.63031pt>
 File: Figures/lwidth7.png Graphic file (type png)
 <use Figures/lwidth7.png>
-Package pdftex.def Info: Figures/lwidth7.png  used on input line 128.
+Package pdftex.def Info: Figures/lwidth7.png  used on input line 133.
 (pdftex.def)             Requested size: 212.89546pt x 102.51993pt.
-
-Underfull \vbox (badness 5607) has occurred while \output is active []
-
- [3 <./Figures/lwidth3.PNG> <./Figures/lwidth7.png>]
+ [3 <./Figures/zajac1.PNG> <./Figures/zajac3.png>]
 <Figures/st2.PNG, id=31, 476.53032pt x 364.36125pt>
 File: Figures/st2.PNG Graphic file (type png)
 <use Figures/st2.PNG>
-Package pdftex.def Info: Figures/st2.PNG  used on input line 144.
+Package pdftex.def Info: Figures/st2.PNG  used on input line 156.
 (pdftex.def)             Requested size: 362.37569pt x 277.08977pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4 <./Figures/st2.PNG>]
+ [4 <./Figures/lwidth3.PNG> <./Figures/lwidth7.png>]
 <Figures/momarm1.png, id=37, 441.8106pt x 169.8345pt>
 File: Figures/momarm1.png Graphic file (type png)
 <use Figures/momarm1.png>
-Package pdftex.def Info: Figures/momarm1.png  used on input line 168.
+Package pdftex.def Info: Figures/momarm1.png  used on input line 180.
 (pdftex.def)             Requested size: 362.37569pt x 139.30664pt.
- [5 <./Figures/momarm1.png>] [6] (YoungResearchProposal.bbl)
-[7] (YoungResearchProposal.aux) ) 
+ [5 <./Figures/st2.PNG>] [6 <./Figures/momarm1.png>] (YoungResearchProposal.bbl
+ [7]) [8] (YoungResearchProposal.aux) ) 
 Here is how much of TeX's memory you used:
  6481 strings out of 492902
  96075 string characters out of 3122405
@@ -754,28 +750,28 @@ Here is how much of TeX's memory you used:
  11861 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,26n,38p,941b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Fletcher/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Fletcher/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Flet
-cher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb
+<C:/Users/Fletcher/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Fletcher/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/User
+s/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x7.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmex10.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Fletcher/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Fletcher/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/
+Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr7.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr9.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fletcher/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Fletc
+her/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmex10.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Fletcher/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Fletch
-er/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr7.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr9.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Fletcher/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Fletcher/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/U
-sers/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmti9.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmtt9.pfb>
-Output written on YoungResearchProposal.pdf (7 pages, 402725 bytes).
+ts/cm/cmti9.pfb><C:/Users/Fletcher/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmtt9.pfb>
+Output written on YoungResearchProposal.pdf (8 pages, 406278 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -58,7 +58,12 @@ As a first step in developing a full-muscle hindlimb model, the attachment point
 Muscle paths were defined based on the descriptions by Greene’s 1955 publication Anatomy of the Rat\cite{greene_anatomy_1955}, a primer containing diagrams and descriptions of every system in the rat. Based on this information and the identification of bony landmarks in the 3D bone scans, muscle paths were implemented. Animatlab’s muscle objects are not collision-based, meaning they can pass directly through bones. For muscles that pass closely over bones (such as knee extensors like the vastii muscles), muscle paths include via points. These via points are stationary relative to the bone coordinate frames. \par
 Once muscle paths were defined for every muscle, muscle parameters were developed. Animatlab uses a linear Hill muscle, shown in Figure \ref{fig:hill}, model which abides by the equation:
 	\begin{align*}
-			\frac{dT}{dt} &= \frac{k_{SE}}{c}\bigg[k_{PE}(L-L_{rest})+c \dot{L}-\big(1+\frac{k_{PE}}{k_{SE}}\big)T\bigg]
+			\frac{dT}{dt} &= \frac{k_{SE}}{c}\bigg[k_{PE}(L-L_{rest})+c \dot{L}-\big(1+\frac{k_{PE}}{k_{SE}}\big)T+A_{m}A_{l}\bigg] \\
+			0 &= \frac{k_{SE}}{c}\bigg[k_{PE}(L-L_{rest})-\big(1+\frac{k_{PE}}{k_{SE}}\big)T^{*}+A_{m}A_{l}\bigg] \\
+			T^{*}(L) &= \bigg(\frac{1}{1+\frac{k_{PE}}{k_{SE}}}\bigg)\bigg[k_{PE}(L-L_{rest})+A_{m}^{*}\bigg(1-\frac{(L-L_{rest})^2}{.25 L_{rest}^2}\bigg)\bigg] \\
+			T^{*}(L_{rest}) = F_{o} &= \frac{A_{m}^{*}}{1+\frac{k_{PE}}{k_{SE}}} \\
+			T^{*}(1.4 L_{rest}) = .5 F_{o} &=  \frac{.4 L_{rest} k_{PE}+.36A_{m}^{*}}{1+\frac{k_{PE}}{k_{SE}}} \\
+			T^{*}(1.5 L_{rest}) = .01 F_{o} &=  \frac{.5 L_{rest} k_{PE}}{1+\frac{k_{PE}}{k_{SE}}} \\
 	\end{align*}
 	\begin{figure}
 		\centering
@@ -135,6 +140,13 @@ Where $T$ is the muscle tension, $k_{SE}$ is the serial element stiffness, $k_{P
 					.3 &= \frac{(L_{min}-L_{max})^2}{L_{width}^2} \\
 					L_{width} &= \frac{|L_{min}-L_{max}|}{\sqrt{.3}} \\
 		 			L_{width} &= \frac{|L_{min}-L_{max}|}{\sqrt{.3}}
+				\end{align*}
+				\begin{align*}
+					U &= \sum_{i=1}^{38} F_{i} \\
+					U &= \sum_{i=1}^{38} F_{i}^{2} \\
+					U &= \sum_{i=1}^{38} \frac{F_{i}}{F_{max,i}} \\
+					U &= \sum_{i=1}^{38} \big(\frac{F_{i}}{F_{max,i}}\big)^{2}  \\
+					U &= \sum_{i=1}^{38} F_{i} \Delta L_{i} \\
 				\end{align*}
 		\FloatBarrier
 		\paragraph{Stimulus-Tension Curve}
