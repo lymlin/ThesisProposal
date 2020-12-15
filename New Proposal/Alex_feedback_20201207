@@ -1,0 +1,39 @@
+General, original thought: 'Is k, m, or c more important than one of the others for perturbation response?'
+
+Questions:
+	1. What do you want to know?
+	2. Is what you want to know something specific to the rat OR is it about different scales? 
+	3. What kind of perturbations are you considering? 
+	4. Why is it important to know this?
+
+The Effects of Viscoelastic Properties on Neural Control for Limbs at Different Scales:
+	1. Question: Why might a cat and rat might have different muscles (or neural control)? 
+		1.1 Hypothesis: during swing, the rat's leg (or certain parts) will naturally slow down due to the passive components, while the cat needs to actively slow the leg.
+	2. Why is it important to know this?
+		2.1 Builds on work (Hooper/NeuroNex/etc) that proves the important of considering length-time scales when determining how animal nervous systems coordinate motion
+		2.2 This work, specifically, would show that the nervous system of the rat must compensate, through neural control, for mechanisms that are present in cats due to their different sizes.
+	3. Outputs: Demonstrates via the dynamics that the rat leg slows during swing by passive components but that the cat leg does not
+		3.1 This is in contrast to just drawing connections amongst the data
+
+The Effects of Viscoelastic Properties on the Passive Limb Perturbation Response of a Hindlimb Model:
+	1. Question: What kind of perturbations could a rat leg resist mechanically and what kind do they need control for?
+		1.1 Hypothesis: The viscoelastic properties of the hindlimb are specially suited to reduce the need for neural control input by minimizing the effect of perturbations at the size and speed scale that rats experience during walking. 
+	2. Define what you mean by 'resisting without control'.
+		2.1 Passive resistance is the leg's natural response to an impulse and is characterized by the inertial/VE composition of the limb
+		2.2 This preparation would be a decerebate control such that there is no reflex from the spinal cord regulating limb response
+	3. Why might this knowledge be important in control?
+		3.1 VE parameters might be sensitive to perturbation magnitude, meaning that the nervous system must become active in order to compensate for only a certain SIZE of perturbation
+			3.1.1 If this is the case, it may highlight compensatory mechanisms in the nervous system that are necessary to resume normal motion
+		3.2 VE parameters might be sensitive to perturbation speed, meaning that the nervous system must become active in order to compensate for only a certain SPEED of perturbation
+			3.2.1 If this is the case, it may indicate whether perturbation response comes from higher or lower level control systems (lower level control systems being faster to respond than higher level)
+	4. How would you characterize the perturbations themselves? 
+		4.1 Could you consider external vs internal?
+			4.1.1 Internal perturbations would require the leg to be moving in a neuron-controlled setup and then injecting a pulse into a specific motoneuron(s)
+			4.1.2 External perturbations would require the leg to be stepping or being moved externally (force plate at foot) and then injecting a mechanical pulse into the leg
+		4.2 Could you consider impact vs uneven ground?
+			4.2.1 Considerations of uneven ground would require EITHER that the model is locomoting over uneven terrain OR simulating ground responses for even/uneven ground with a stationary leg
+	5. Compare values across muscles to help identify roles of the muscles by non-dimensionalizing K and C
+		5.1 Might provide insights on muscle structure and how it would behave
+		5.2 Look for patterns for functional groups (abductors vs extensors vs flexors)
+		5.3 Could test how the baseline VE parameters respond to perturbation speed/size and then optimize K and C in order to better compensate?
+		5.4 Could define a desired perturbation rejection profile (i.e. limb motion returns to normal in X cycles) and then define acceptable ranges of K and C for each muscle that maintain this?

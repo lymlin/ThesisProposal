@@ -1,0 +1,115 @@
+"Alessandro, 2014"	A computational analysis of motor synergies by dynamic response decomposition
+"Alessandro, 2018"	Adaptation after vastus lateralis denervation in rats suggests neural regulation of joint stresses and strains
+"Almeida-Silveira, 2000"	Changes in stiffness induced by hindlimb suspension in rat Achilles tendon
+"An, 1984"	Determination of Muscle Orientations and Moment Arms
+"Anderson, 2001"	Dynamic Optimization of Human Walking
+"Anderson, 2001"	Static and dynamic optimization solutions for gait are practically equivalent
+"Andrada, 2013"	From biomechanics of rats’ inclined locomotion to a climbing robot
+"Aoi, 2013"	Contributions of phase resetting and interlimb coordination to the adaptive control of hindlimb obstacle avoidance during locomotion in rats: a simulation study
+"Beer, 1997"	Biologically Inspired Approaches to Robotics: What Can We Learn from Insects?
+"Beer, 1999"	Evolution and Analysis of Model CPGs for Walking: II. General Principles and Individual Variability
+"Berniker, 2009"	Simplified and effective motor control based on muscle synergies to exploit musculoskeletal dynamics
+"Berniker, 2016"	A Probabilistic Analysis of Muscle Force Uncertainty for Control
+"Bouisset, 1973"	EMG and Muscle Force in Normal Motor Activities
+"Brown, 1996"	Mechanics of feline soleus: II design and validation of a mathematical model
+"Buchanan, 1986"	Characteristics of synergic relations during isometric contractions of human elbow muscles
+"Buchanan, 1996"	An Evaluation of Optimization Techniques for the Prediction of Muscle Activation Patterns During Isometric Tasks
+"Buchanan, 2004"	Neuromusculoskeletal Modeling: Estimation of Muscle Forces and Joint Moments and Movements From Measurements of Neural Command
+"Buschmann, 2015"	Controlling legs for locomotion—insights from robotics and neurobiology
+"Chang, 2017"	A muscle-driven approach to restore stepping with an exoskeleton for individuals with paraplegia
+"Charles, 2016"	Muscle moment arms and sensitivity analysis of a mouse hindlimb musculoskeletal model
+"Chia Bejarano, 2017"	Tuning of Muscle Synergies During Walking Along Rectilinear and Curvilinear Trajectories in Humans
+"Chiel, 1997"	"The brain has a body: adaptive behavior emerges from interactions of nervous system, body and environment"
+"Chiel, 2009"	The Brain in Its Body: Motor Control and Sensing in a Biomechanical Context
+"Cleland, 1867"	On the Actions of Muscles passing over more than One Joint
+"Cofer, 2010"	AnimatLab: A 3D graphics environment for neuromechanical simulations
+"Corcos, 1992"	Electromechanical delay: An experimental artifact
+"Crowninshield, 1981"	A physiologically based criterion of muscle force prediction in locomotion
+"Cullins, 2014"	Motor neuronal activity varies least among individuals when it matters most for behavior
+"d'Avella, 2003"	Combinations of muscle synergies in the construction of a natural motor behavior
+"d'Avella, 2005"	Shared and specific muscle synergies in natural motor behaviors
+"Deng, 2019"	Neuromechanical Model of Rat Hindlimb Walking with Two-Layer CPGs
+"Dutta, 2019"	Programmable coupled oscillators for synchronized locomotion
+"Duysens, 2019"	A controller perspective on biological gait control: Reflexes and central pattern generators
+"Ekeberg, 2005"	Computer Simulation of Stepping in the Hind Legs of the Cat: An Examination of Mechanisms Regulating the Stance-to-Swing Transition
+"Eng, 2008"	Scaling of muscle architecture and fiber types in the rat hindlimb
+"Ettema, 1989"	Properties of the tendinous structures and series elastic component of EDL muscle-tendon complex of the rat
+"Fischer, 2002"	Basic limb kinematics of small therian mammals
+"Grätsch, 2019"	Descending control of locomotor circuits
+"Greene, 1955"	Anatomy of the rat.
+"Guertin, 2009"	The mammalian central pattern generator for locomotion
+"Hardt, 1978"	Determining Muscle Forces in the Leg During Normal Human Walking—An Application and Evaluation of Optimization Methods
+"Herzog, 1991"	Validation of optimization models that estimate the forces exerted by synergistic muscles
+"Hof, 2001"	The force resulting from the action of mono- and biarticular muscles in a limb
+"Hoy, 1990"	"A musculoskeletal model of the human lower extremity: The effect of muscle, tendon, and moment arm on the moment-angle relationship of musculotendon actuators at the hip, knee, and ankle"
+"Hunt, 2014"	Neuromechanical Simulation of an Inter-leg Controller for Tetrapod Coordination
+"Hunt, 2015"	Using Animal Data and Neural Dynamics to Reverse Engineer a Neuromechanical Rat Model
+"Hunt, 2017"	Development and Training of a Neural Controller for Hind Leg Walking in a Dog Robot
+"Ijspeert, 2008"	Central pattern generators for locomotion control in animals and robots: A review
+"Jarc, 2013"	FES Control of Isometric Forces in the Rat Hindlimb Using Many Muscles
+"Johnson, 2008"	A three-dimensional model of the rat hindlimb: Musculoskeletal geometry and muscle moment arms
+"Johnson, 2011"	Application of a Rat Hindlimb Model: A Prediction of Force Spaces Reachable Through Stimulation of Nerve Fascicles
+"Kaufman, 1991"	Physiological prediction of muscle forces—I. Theoretical formulation
+"Kurtzer, 2006"	Primate Upper Limb Muscles Exhibit Activity Patterns That Differ From Their Anatomical Action During a Postural Task
+"Kutch, 2011"	Muscle redundancy does not imply robustness to muscle dysfunction
+"Lakatos, 2016"	Dynamic bipedal walking by controlling only the equilibrium of intrinsic elasticities
+"Lee, 1984"	Neuromotor Synergies as a Basis for Coordinated Intentional Action
+"Lee, 2001"	Algorithms for Non-negative Matrix Factorization
+"Lee, 2008"	Estimation of the effective static moment arms of the tendons in the index finger extensor mechanism
+"Lippold, 1952"	The relation between integrated action potentials in a human muscle and its isometric tension
+"Lloyd, 2003"	An EMG-driven musculoskeletal model to estimate muscle forces and knee joint moments in vivo
+"Luo, 2018"	Adaptive CPG-Based Impedance Control for Assistive Lower Limb Exoskeleton
+"Markin, 2016"	A Neuromechanical Model of Spinal Control of Locomotion
+"McCrea, 2008"	Organization of mammalian locomotor rhythm and pattern generation
+"McKay, 2012"	Optimization of Muscle Activity for Task-Level Goals Predicts Complex Changes in Limb Forces across Biomechanical Contexts
+"Morrison, 1970"	The mechanics of the knee joint in relation to normal walking
+"Muir, 1999"	Ground reaction forces in locomoting hemi-parkinsonian rats: a definitive test for impairments and compensations
+"Murphy, 1974"	Mechanical properties of the cat soleus muscle in situ
+"Murray, 1994"	A Mathematical Introduction to Robotic Manipulation
+"Nicolopoulos?Stournaras, 1983"	Motor neuron columns in the lumbar spinal cord of the rat
+"Pearlman, 2004"	The fundamental thumb-tip force vectors produced by the muscles of the thumb
+"Pedotti, 1978"	Optimization of muscle-force sequencing in human locomotion
+"Penrod, 1974"	An optimization approach to tendon force analysis
+"Perreault, 2008"	Interactions With Compliant Loads Alter Stretch Reflex Gains But Not Intermuscular Coordination
+"Prilutsky, 2002"	Optimization-Based Models of Muscle Coordination
+"Ranganathan, 2016"	Learning new gait patterns: Exploratory muscle activity during motor learning is not predicted by motor modules
+"Rode, 2009"	The effects of parallel and series elastic components on the active cat soleus force-length relationship
+"Sacks, 1982"	Architecture of the hind limb muscles of cats: Functional significance
+"Sandercock, 2018"	Vastus lateralis and vastus medialis produce distinct mediolateral forces on the patella but similar forces on the tibia in the rat
+"Savelberg, 2003"	Contribution of mono- and biarticular muscles to  extending knee joint moments in runners and cyclists
+"Schipplein, 1991"	Interaction between active and passive knee stabilizers during level walking
+"Schrade, 2017"	Bio-inspired control of joint torque and knee stiffness in a robotic lower limb exoskeleton using a central pattern generator
+"Schrade, 2018"	"Development of VariLeg, an exoskeleton with variable stiffness actuation: first results and user evaluation from the CYBATHLON 2016"
+"Seireg, 1973"	A mathematical model for evaluation of forces in lower extremeties of the musculo-skeletal system
+"Seth, 2011"	OpenSim: a musculoskeletal modeling and simulation framework for in silico investigations and exchange
+"Sharbafi, 2016"	A new biarticular actuator design facilitates control of leg function in BioBiped3
+"Spector, 1980"	Muscle architecture and force-velocity characteristics of cat soleus and medial gastrocnemius: implications for motor control
+"Steele, 2015"	Consequences of biomechanically constrained tasks in the design and interpretation of synergy analyses
+"Steele, 2015"	Muscle synergies and complexity of neuromuscular control during gait in cerebral palsy
+"Szczecinski, 2014"	Neuromechanical Mantis Model Replicates Animal Postures via Biological Neural Models
+"Szczecinski, 2014"	A neuromechanical simulation of insect walking and transition to turning of the cockroach Blaberus discoidalis
+"Szczecinski, 2017"	A Functional Subnetwork Approach to Designing Synthetic Nervous Systems That Control Legged Robot Locomotion
+"Szczecinski, 2017"	Design process and tools for dynamic neuromechanical models and robot controllers
+"Taborri, 2018"	"Feasibility of Muscle Synergy Outcomes in Clinics, Robotics, and Sports: A Systematic Review"
+"Taborri, 2018"	On the Reliability and Repeatability of Surface Electromyography Factorization by Muscle Synergies in Daily Life Activities
+"Thelen, 2003"	Adjustment of Muscle Mechanics Model Parameters to Simulate Dynamic Contractions in Older Adults
+"Thota, 2005"	Neuromechanical Control of Locomotion in the Rat
+"Ting, 2005"	A Limited Set of Muscle Synergies for Force Control During a Postural Task
+"Ting, 2012"	Review and perspective: neuromechanical considerations for predicting muscle activation patterns for movement
+"Ting, 2015"	Neuromechanical Principles Underlying Movement Modularity and Their Implications for Rehabilitation
+"Torres-Oviedo, 2007"	Muscle Synergies Characterizing Human Postural Responses
+"Tresch, 1999"	The construction of movement by the spinal cord
+"Tresch, 2006"	Matrix Factorization Algorithms for the Identification of Muscle Synergies: Evaluation on Simulated and Experimental Data Sets
+"Tresch, 2009"	The case for and against muscle synergies
+"Valero-Cuevas, 2009"	Structured Variability of Muscle Activations Supports the Minimal Intervention Principle of Motor Control
+"Valero-Cuevas, 2015"	Exploring the high-dimensional structure of muscle redundancy via subject-specific and generic musculoskeletal models
+"Visser, 1990"	Length and moment arm of human leg muscles as a function of knee and hip-joint angles
+"Wei, 2018"	Uncertainty in Limb Configuration Makes Minimal Contribution to Errors Between Observed and Predicted Forces in a Musculoskeletal Model of the Rat Hindlimb
+"Wenger, 2016"	Spatiotemporal neuromodulation therapies engaging muscle synergies improve motor control after spinal cord injury
+"Williams, 2008"	Functional anatomy and muscle moment arms of the pelvic limb of an elite sprinting athlete: the racing greyhound (Canis familiaris)
+"Witte, 2002"	Torque patterns of the limbs of small therian mammals during locomotion on flat ground
+"Yeo, 2011"	Estimation of musculoskeletal models from in situ measurements of muscle action in the rat hindlimb
+"Yeo, 2013"	Phenomenological models of the dynamics of muscle during isotonic shortening
+"Young, 2018"	A Neuromechanical Rat Model with a Complete Set of Hind Limb Muscles
+"Young, 2019"	Analyzing Moment Arm Profiles in a Full-Muscle Rat Hindlimb Model
+"Zajac, 1989"	"Muscle and tendon: properties, models, scaling, and application to biomechanics and motor control."
